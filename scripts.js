@@ -1,1 +1,1 @@
-object.onload = function(){alert("GG")};
+object.onload = function(){alert("GG foi o teste")};
